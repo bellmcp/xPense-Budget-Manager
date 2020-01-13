@@ -1,4 +1,4 @@
-# xPense-Budget-Manager
+# xPense — Budget Manager
 A simple budget manager.
 
 <br>
