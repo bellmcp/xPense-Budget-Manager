@@ -1,4 +1,4 @@
-# xPense — Budget Manager
+# xPense — Simple Expense Manager
 Application that helps you manage and track your daily expenses. Designed to be simple and intuitive, this application will help you manage and always be aware of what is happening in your own wallet. A great budget manager for everyone who is concerned about their spending. 
 
 <br>
