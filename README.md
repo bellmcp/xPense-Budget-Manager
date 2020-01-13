@@ -6,27 +6,14 @@ Application that helps you manage and track your daily expenses. Designed to be 
   <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
 </p>
 
+# Demo
 
-# Resources
-
-* [See the demo](https://bellmcp.github.io/demo/xPense)
-
-# Install Guide
-
-* Download and Install LogicWorks™ 5.0
-* Download .cct project file and open with LogicWorks
+* [bellmcp.work/demo/xPense](https://bellmcp.work/demo/xPense)
 
 # What I Learned
 
-* Developed a 4-Digit calculator within the circuit logic board simulator software (LogicWorks™)
-* Developed a user interface within the circuit logic board.
-* Implemented functinality to the calculator: `ADDITION`, `SUBTRACTION`, `MULTIPLY`, `DIVISION` & `INVERT`.
-* Implemented a 7-segment display using logic gates.
-
-# Future Ideas Include
-
-* Extends ability to display and calculate more digits of number.
-* Add an ability to have the square root and percentage function.
+* Basic and advance JavaScript knowledges: DOM manipulation, function constructors, prototypal inheritance, first-class functions, closures, the bind and apply methods, and more. 
+* Implementing Model-View-Controller Architecture: `BUDGET CONTROLLER`, `APP CONTROLLER` & `UI CONTROLLER`.
 
 # License
 
