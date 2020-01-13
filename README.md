@@ -1,9 +1,9 @@
 # xPense — Budget Manager
-A simple budget manager.
+Designed to be simple and intuitive, this application will help you manage and always be aware of what is happening in your own wallet. A great budget manager for everyone who is concerned about their spending. 
 
 <br>
 <p align="center">
-  <img src="https://bellmcp.github.io/img/Projects_Calculator.jpg" />
+  <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
 </p>
 
 
