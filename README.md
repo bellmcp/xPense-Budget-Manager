@@ -8,7 +8,7 @@ Application that helps you manage and track your daily expenses. Designed to be 
 
 # Demo
 
-* [bellmcp.work/demo/xPense](https://bellmcp.work/demo/xPense) (v. 1.0.0)
+* [bellmcp.work/demo/xPense](https://bellmcp.work/demo/xPense) (v. 1.0.2)
 
 # What I Learned
 
