@@ -9,8 +9,7 @@ Designed to be simple and intuitive, this application will help you manage and a
 
 # Resources
 
-* [Download Project (.cct | 4.8 MB)](https://bellmcp.github.io/work/Calculator.cct)
-* [Download LogicWorks™ 5.0 (.zip | 11.3 MB)](https://bellmcp.github.io/work/LogicWorks5.zip)
+* [See the demo](https://bellmcp.github.io/demo/xPense)
 
 # Install Guide
 
