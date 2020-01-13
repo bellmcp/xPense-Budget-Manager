@@ -12,7 +12,9 @@ Application that helps you manage and track your daily expenses. Designed to be 
 
 # What I Learned
 
-* Basic and advance JavaScript knowledges: DOM manipulation, function constructors, prototypal inheritance, first-class functions, closures, the bind and apply methods, and more. 
+* Basic JavaScript and programming fundamentals: variables, data types, boolean logic, if/else statements, loops, functions, objects, arrays, and more
+* Complex JavaScript features such as function constructors, prototypal inheritance, first-class functions, closures, the bind and apply methods, and more. 
+* Learn how to make JavaScript code interact with webpages: DOM manipulation. Learn how to select and change webpage elements, create new elements and handle DOM events.
 * Implementing Model-View-Controller Architecture: `BUDGET CONTROLLER`, `APP CONTROLLER` & `UI CONTROLLER`.
 
 # License
