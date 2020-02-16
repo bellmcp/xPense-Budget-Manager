@@ -20,7 +20,7 @@ Application that helps you manage and track your daily expenses. Designed to be 
 
 ### Source Code License
 
-Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
+Licensed under [The MIT License](https://github.com/bellmcp/xPense-Budget-Manager/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
 
 ### Documentation License
 
